@@ -1,0 +1,40 @@
+body {
+    background-image:url(haikei.jpg)
+}
+.a {
+    width: 1000px;
+    height: 1200px;
+    margin: auto;
+    color: black;/*文字色*/
+    background: #e5fce5f8;
+    border: solid 3px green;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+.flex{
+    display: flex;
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+.a div{
+    font-size: large;
+}
+.text2{
+    margin-left: 28px;
+}
+.text{
+    margin-left: 80px;
+}
+p span{
+    font-weight: bold;
+}
+.my{
+    font-size: 60px;
+}
+div{
+    padding-left: 10px;
+}
+.text3{
+    margin-left: 140px;
+}

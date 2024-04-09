@@ -1,0 +1,23 @@
+body {
+    background-image:url(kabe.jpg)
+}
+.a span{
+    font-size: 100px;
+    color: black;
+}
+.a {
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    color: black;/*文字色*/
+    background: #FFF;
+    border: solid 3px rgb(157, 157, 157);/*線*/
+    border-radius: 10px;/*角の丸み*/
+    text-align: center;
+}
+img {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border: solid 2px black;
+  }
